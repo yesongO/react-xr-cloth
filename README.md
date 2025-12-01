@@ -142,7 +142,7 @@ src/
 <br/>
 <br/>
 
-## 🛠️ Tech Stack (Screen Shot)
+## 🛠️ Tech Stack
 
 
 #### Environment & Core
