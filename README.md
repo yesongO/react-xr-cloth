@@ -146,8 +146,8 @@ src/
 
 
 #### Environment & Core
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-967BB6?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### 3D & XR
-![Three.js](https://img.shields.io/badge/Three.js-45B1E8?style=for-the-badge&logo=three.js&logoColor=white) ![R3F](https://img.shields.io/badge/React_Three_Fiber-3B91B4?style=for-the-badge&logo=react&logoColor=white) ![XR](https://img.shields.io/badge/@react--three/xr_v6-FF4081?style=for-the-badge&logo=webxr&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-45B1E8?style=for-the-badge&logo=three.js&logoColor=white) ![R3F](https://img.shields.io/badge/React_Three_Fiber-3B91B4?style=for-the-badge&logo=react&logoColor=white) ![XR](https://img.shields.io/badge/@react--three/xr_v6-FF91A4?style=for-the-badge&logo=webxr&logoColor=white)
 
