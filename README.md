@@ -12,6 +12,7 @@ React XR Cloth는 WebXR 환경에서 재사용 가능한 Cloth Physics 엔진을
 <img width="1225" height="659" alt="react-xr-cloth-1" src="https://github.com/user-attachments/assets/32e89353-6ea3-446b-be8d-e0fc63301395" />
 
 <br/>
+<br/>
 
 ### 💡 이 프로젝트가 해결하는 문제들 (Why This Project?)
 
@@ -74,6 +75,13 @@ src/
 ├── 📦 store.ts           # WebXR 컨트롤러 전역 상태
 └── 🚀 App.tsx            # 앱 엔트리 + 전체 Scene 구성
 ```
+
+<br/>
+
+### 🚀 설치 및 실행 가이드 (Getting Started)
+
+---
+이 프로젝트는 WebXR 에뮬레이터 호환성을 위해 **Three.js 버전을 0.160.0으로 고정(Pinning)**하여 개발되었습니다. npm install 실행 시 package.json에 명시된 해당 버전이 자동으로 설치됩니다. 또한 PC 환경에서 VR 인터랙션을 테스트하려면 Chrome 확장 프로그램인 Immersive Web Emulator 설치 및 활성화가 필요합니다.
 
 <br/>
 
